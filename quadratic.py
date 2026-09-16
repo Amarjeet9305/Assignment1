@@ -1,6 +1,6 @@
 arr = [30,34,32,55,60,44,45]
 
-size = 10
+size = 4
 
 hash_table = [None]*size
 
