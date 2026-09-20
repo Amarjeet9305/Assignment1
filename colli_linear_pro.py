@@ -19,6 +19,7 @@ for ele in arr:
         # Move to the next index
         index = (index + 1) % size
 
+
     # Store the number at empty index
     hash_table[index] = ele
 
